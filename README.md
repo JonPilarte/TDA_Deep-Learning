@@ -3,10 +3,11 @@
 • Improved accuracy up to 80% by implementing Topological Data Analysis image processing <br />
 • Explored the potential for a hybrid merge, combining GLCM and TDA methodologies <br />
 
-<p float="left">
-  <img src="https://github.com/JonPilarte/TDA_Deep-Learning/blob/master/assets/98784746/81e2f7b3-5dd2-4fec-b956-bc79d6e78bf3.png" width="400" />
-  <img src="https://github.com/JonPilarte/TDA_Deep-Learning/blob/master/assets/98784746/72cb1727-e800-407f-b986-94f3bd775269.png" width="400" />
-</p>
+A | B
+- | - 
+![eye](https://github.com/JonPilarte/TDA_Deep-Learning/assets/98784746/c2aadc12-c74e-4adc-aec8-32075711fa13)
+ | ![wavelenghts](https://github.com/JonPilarte/TDA_Deep-Learning/assets/98784746/fca6df3c-0eae-426d-87f6-ea9dfcd8376c)
+
 
 # Deep Learning workflow
 ![tda_workflow](https://github.com/JonPilarte/TDA_Deep-Learning/assets/98784746/3af7a57e-03cd-4f65-a781-69fd57ebba27)
