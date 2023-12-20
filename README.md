@@ -9,7 +9,7 @@
 # Deep Learning workflow
 ![tda_workflow](https://github.com/JonPilarte/TDA_Deep-Learning/assets/98784746/3af7a57e-03cd-4f65-a781-69fd57ebba27)
 
-# Topological Data Analysis and Persitence Theory
+# Topological Data Analysis and Persistence Theory
 ![persistence](https://github.com/JonPilarte/TDA_Deep-Learning/assets/98784746/4cf6e771-692e-4672-bd83-9f611cc111ba)
 
 
