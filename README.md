@@ -4,7 +4,7 @@
 • Explored the potential for a hybrid merge, combining GLCM and TDA methodologies <br />
 
 A | B
-- | - 
+asa | - 
 ![eye](https://github.com/JonPilarte/TDA_Deep-Learning/assets/98784746/c2aadc12-c74e-4adc-aec8-32075711fa13)
  | ![wavelenghts](https://github.com/JonPilarte/TDA_Deep-Learning/assets/98784746/fca6df3c-0eae-426d-87f6-ea9dfcd8376c)
 
